@@ -12,8 +12,6 @@
 
 ## Installation
 
-<p align="center">
-    <a href="https://docs.nexusfn.net"><img src="https://cdn.nexusfn.net/file/2023/07/prodcos.png" alt="Prod install" width=960 /></a>
-</p>
+
 
 ## Star History
