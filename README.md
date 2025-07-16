@@ -15,4 +15,5 @@
 
 
 ## Star History
-https://github.com/stars/DylanOGFN/lists/dylanogfn
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DylanOGFN/DylanOGFN&type=Date)](https://www.star-history.com/#DylanOGFN/DylanOGFN&Date)
